@@ -1,0 +1,44 @@
+C:\Users\Tim\Source\Repos\DapperDemos\Demo1_BasicDapper\bin\Debug\Demo1_BasicDapper.exe.config
+C:\Users\Tim\Source\Repos\DapperDemos\Demo1_BasicDapper\bin\Debug\Demo1_BasicDapper.exe
+C:\Users\Tim\Source\Repos\DapperDemos\Demo1_BasicDapper\bin\Debug\Demo1_BasicDapper.pdb
+C:\Users\Tim\Source\Repos\DapperDemos\Demo1_BasicDapper\bin\Debug\Dapper.dll
+C:\Users\Tim\Source\Repos\DapperDemos\Demo1_BasicDapper\obj\Debug\Demo1_BasicDapper.csprojAssemblyReference.cache
+C:\Users\Tim\Source\Repos\DapperDemos\Demo1_BasicDapper\obj\Debug\Demo1_BasicDapper.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Source\Repos\DapperDemos\Demo1_BasicDapper\obj\Debug\Demo1_BasicDapper.csproj.CopyComplete
+C:\Users\Tim\Source\Repos\DapperDemos\Demo1_BasicDapper\obj\Debug\Demo1_BasicDapper.exe
+C:\Users\Tim\Source\Repos\DapperDemos\Demo1_BasicDapper\obj\Debug\Demo1_BasicDapper.pdb
+C:\Users\Tim\Source\Repos\DapperDemos\Demo1_BasicDapper\bin\Debug\HelperLibrary.dll
+C:\Users\Tim\Source\Repos\DapperDemos\Demo1_BasicDapper\bin\Debug\HelperLibrary.pdb
+Z:\c# projekte\dapper grundlagen\Demo1_BasicDapper\bin\Debug\Demo1_BasicDapper.exe.config
+Z:\c# projekte\dapper grundlagen\Demo1_BasicDapper\bin\Debug\Demo1_BasicDapper.exe
+Z:\c# projekte\dapper grundlagen\Demo1_BasicDapper\bin\Debug\Demo1_BasicDapper.pdb
+Z:\c# projekte\dapper grundlagen\Demo1_BasicDapper\bin\Debug\Dapper.dll
+Z:\c# projekte\dapper grundlagen\Demo1_BasicDapper\bin\Debug\HelperLibrary.dll
+Z:\c# projekte\dapper grundlagen\Demo1_BasicDapper\bin\Debug\HelperLibrary.pdb
+Z:\c# projekte\dapper grundlagen\Demo1_BasicDapper\obj\Debug\Demo1_BasicDapper.csprojAssemblyReference.cache
+Z:\c# projekte\dapper grundlagen\Demo1_BasicDapper\obj\Debug\Demo1_BasicDapper.csproj.CoreCompileInputs.cache
+Z:\c# projekte\dapper grundlagen\Demo1_BasicDapper\obj\Debug\Demo1_BasicDapper.csproj.CopyComplete
+Z:\c# projekte\dapper grundlagen\Demo1_BasicDapper\obj\Debug\Demo1_BasicDapper.exe
+Z:\c# projekte\dapper grundlagen\Demo1_BasicDapper\obj\Debug\Demo1_BasicDapper.pdb
+H:\dapper grundlagen\Demo1_BasicDapper\bin\Debug\Demo1_BasicDapper.exe.config
+H:\dapper grundlagen\Demo1_BasicDapper\bin\Debug\Demo1_BasicDapper.exe
+H:\dapper grundlagen\Demo1_BasicDapper\bin\Debug\Demo1_BasicDapper.pdb
+H:\dapper grundlagen\Demo1_BasicDapper\bin\Debug\Dapper.dll
+H:\dapper grundlagen\Demo1_BasicDapper\bin\Debug\HelperLibrary.dll
+H:\dapper grundlagen\Demo1_BasicDapper\bin\Debug\HelperLibrary.pdb
+H:\dapper grundlagen\Demo1_BasicDapper\obj\Debug\Demo1_BasicDapper.csprojAssemblyReference.cache
+H:\dapper grundlagen\Demo1_BasicDapper\obj\Debug\Demo1_BasicDapper.csproj.CoreCompileInputs.cache
+H:\dapper grundlagen\Demo1_BasicDapper\obj\Debug\Demo1_BasicDapper.csproj.CopyComplete
+H:\dapper grundlagen\Demo1_BasicDapper\obj\Debug\Demo1_BasicDapper.exe
+H:\dapper grundlagen\Demo1_BasicDapper\obj\Debug\Demo1_BasicDapper.pdb
+C:\Users\Pat\source\repos\dapper grundlagen\Demo1_BasicDapper\bin\Debug\Demo1_BasicDapper.exe.config
+C:\Users\Pat\source\repos\dapper grundlagen\Demo1_BasicDapper\bin\Debug\Demo1_BasicDapper.exe
+C:\Users\Pat\source\repos\dapper grundlagen\Demo1_BasicDapper\bin\Debug\Demo1_BasicDapper.pdb
+C:\Users\Pat\source\repos\dapper grundlagen\Demo1_BasicDapper\bin\Debug\Dapper.dll
+C:\Users\Pat\source\repos\dapper grundlagen\Demo1_BasicDapper\bin\Debug\HelperLibrary.dll
+C:\Users\Pat\source\repos\dapper grundlagen\Demo1_BasicDapper\bin\Debug\HelperLibrary.pdb
+C:\Users\Pat\source\repos\dapper grundlagen\Demo1_BasicDapper\obj\Debug\Demo1_BasicDapper.csprojAssemblyReference.cache
+C:\Users\Pat\source\repos\dapper grundlagen\Demo1_BasicDapper\obj\Debug\Demo1_BasicDapper.csproj.CoreCompileInputs.cache
+C:\Users\Pat\source\repos\dapper grundlagen\Demo1_BasicDapper\obj\Debug\Demo1_BasicDapper.csproj.CopyComplete
+C:\Users\Pat\source\repos\dapper grundlagen\Demo1_BasicDapper\obj\Debug\Demo1_BasicDapper.exe
+C:\Users\Pat\source\repos\dapper grundlagen\Demo1_BasicDapper\obj\Debug\Demo1_BasicDapper.pdb

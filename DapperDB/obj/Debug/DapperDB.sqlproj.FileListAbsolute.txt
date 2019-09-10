@@ -1,0 +1,32 @@
+C:\Users\Tim\Source\Repos\DapperDemos\DapperDB\bin\Debug\DapperDB.dacpac
+C:\Users\Tim\Source\Repos\DapperDemos\DapperDB\bin\Debug\DapperDB.dll
+C:\Users\Tim\Source\Repos\DapperDemos\DapperDB\bin\Debug\DapperDB.pdb
+C:\Users\Tim\Source\Repos\DapperDemos\DapperDB\obj\Debug\DapperDB.dll
+C:\Users\Tim\Source\Repos\DapperDemos\DapperDB\obj\Debug\DapperDB.pdb
+C:\Users\Tim\Source\Repos\DapperDemos\DapperDB\obj\Debug\DapperDB.sqlprojAssemblyReference.cache
+Z:\c# projekte\dapper grundlagen\DapperDB\bin\Debug\DapperDB.dacpac
+Z:\c# projekte\dapper grundlagen\DapperDB\bin\Debug\DapperDB.dll
+Z:\c# projekte\dapper grundlagen\DapperDB\bin\Debug\DapperDB.pdb
+Z:\c# projekte\dapper grundlagen\DapperDB\obj\Debug\DapperDB.sqlprojAssemblyReference.cache
+Z:\c# projekte\dapper grundlagen\DapperDB\obj\Debug\Model.xml
+Z:\c# projekte\dapper grundlagen\DapperDB\obj\Debug\refactor.xml
+Z:\c# projekte\dapper grundlagen\DapperDB\obj\Debug\postdeploy.sql
+Z:\c# projekte\dapper grundlagen\DapperDB\obj\Debug\predeploy.sql
+Z:\c# projekte\dapper grundlagen\DapperDB\obj\Debug\DapperDB.dll
+Z:\c# projekte\dapper grundlagen\DapperDB\obj\Debug\DapperDB.pdb
+H:\dapper grundlagen\DapperDB\bin\Debug\DapperDB.dacpac
+H:\dapper grundlagen\DapperDB\bin\Debug\DapperDB.dll
+H:\dapper grundlagen\DapperDB\bin\Debug\DapperDB.pdb
+H:\dapper grundlagen\DapperDB\obj\Debug\DapperDB.sqlprojAssemblyReference.cache
+H:\dapper grundlagen\DapperDB\obj\Debug\Model.xml
+H:\dapper grundlagen\DapperDB\obj\Debug\refactor.xml
+H:\dapper grundlagen\DapperDB\obj\Debug\postdeploy.sql
+H:\dapper grundlagen\DapperDB\obj\Debug\predeploy.sql
+H:\dapper grundlagen\DapperDB\obj\Debug\DapperDB.dll
+H:\dapper grundlagen\DapperDB\obj\Debug\DapperDB.pdb
+C:\Users\Pat\source\repos\dapper grundlagen\DapperDB\bin\Debug\DapperDB.dacpac
+C:\Users\Pat\source\repos\dapper grundlagen\DapperDB\bin\Debug\DapperDB.dll
+C:\Users\Pat\source\repos\dapper grundlagen\DapperDB\bin\Debug\DapperDB.pdb
+C:\Users\Pat\source\repos\dapper grundlagen\DapperDB\obj\Debug\DapperDB.sqlprojAssemblyReference.cache
+C:\Users\Pat\source\repos\dapper grundlagen\DapperDB\obj\Debug\DapperDB.dll
+C:\Users\Pat\source\repos\dapper grundlagen\DapperDB\obj\Debug\DapperDB.pdb

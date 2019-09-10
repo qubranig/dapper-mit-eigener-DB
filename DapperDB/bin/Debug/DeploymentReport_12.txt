@@ -1,0 +1,19 @@
+﻿** Hervorhebungen
+     Tabellen, die neu erstellt werden.
+       Kein
+     Gruppierte Indizes, die gelöscht werden.
+       Kein
+     Gruppierte Indizes, die erstellt werden.
+       Kein
+     Mögliche Datenprobleme
+       Kein
+
+** Benutzeraktionen
+     Erstellen
+       [dbo].[BasicUDT] (Benutzerdefinierter Tabellentyp)
+       [dbo].[Person] (Tabelle)
+       [dbo].[Phone] (Tabelle)
+       [dbo].[spPerson_InsertSet] (Prozedur)
+       [dbo].[spPerson_Search] (Prozedur)
+
+** Unterstützende Aktionen
