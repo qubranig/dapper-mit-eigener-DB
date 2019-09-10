@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Pat\\source\\repos\\dapper grundlagen\\Demo2_AdvancedDapper\\Demo2_AdvancedDapper.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Pat\\source\\repos\\dapper grundlagen\\Demo2_AdvancedDapper\\Demo2_AdvancedDapper.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pat\\source\\repos\\dapper grundlagen\\Demo2_AdvancedDapper\\Demo2_AdvancedDapper.csproj",
+        "projectName": "Demo2_AdvancedDapper",
+        "projectPath": "C:\\Users\\Pat\\source\\repos\\dapper grundlagen\\Demo2_AdvancedDapper\\Demo2_AdvancedDapper.csproj",
+        "packagesPath": "C:\\Users\\Pat\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pat\\source\\repos\\dapper grundlagen\\Demo2_AdvancedDapper\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Pat\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "projectReferences": {
+              "C:\\Users\\Pat\\source\\repos\\dapper grundlagen\\HelperLibrary\\HelperLibrary.csproj": {
+                "projectPath": "C:\\Users\\Pat\\source\\repos\\dapper grundlagen\\HelperLibrary\\HelperLibrary.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[1.50.5, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    },
+    "C:\\Users\\Pat\\source\\repos\\dapper grundlagen\\HelperLibrary\\HelperLibrary.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Pat\\source\\repos\\dapper grundlagen\\HelperLibrary\\HelperLibrary.csproj",
+        "projectName": "HelperLibrary",
+        "projectPath": "C:\\Users\\Pat\\source\\repos\\dapper grundlagen\\HelperLibrary\\HelperLibrary.csproj"
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}

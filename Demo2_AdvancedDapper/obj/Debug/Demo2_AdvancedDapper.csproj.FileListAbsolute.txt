@@ -1,0 +1,33 @@
+C:\Users\Tim\Source\Repos\DapperDemos\Demo2_AdvancedDapper\bin\Debug\Demo2_AdvancedDapper.exe.config
+C:\Users\Tim\Source\Repos\DapperDemos\Demo2_AdvancedDapper\bin\Debug\Demo2_AdvancedDapper.exe
+C:\Users\Tim\Source\Repos\DapperDemos\Demo2_AdvancedDapper\bin\Debug\Demo2_AdvancedDapper.pdb
+C:\Users\Tim\Source\Repos\DapperDemos\Demo2_AdvancedDapper\bin\Debug\Dapper.dll
+C:\Users\Tim\Source\Repos\DapperDemos\Demo2_AdvancedDapper\bin\Debug\HelperLibrary.dll
+C:\Users\Tim\Source\Repos\DapperDemos\Demo2_AdvancedDapper\bin\Debug\HelperLibrary.pdb
+C:\Users\Tim\Source\Repos\DapperDemos\Demo2_AdvancedDapper\obj\Debug\Demo2_AdvancedDapper.csprojAssemblyReference.cache
+C:\Users\Tim\Source\Repos\DapperDemos\Demo2_AdvancedDapper\obj\Debug\Demo2_AdvancedDapper.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Source\Repos\DapperDemos\Demo2_AdvancedDapper\obj\Debug\Demo2_AdvancedDapper.csproj.CopyComplete
+C:\Users\Tim\Source\Repos\DapperDemos\Demo2_AdvancedDapper\obj\Debug\Demo2_AdvancedDapper.exe
+C:\Users\Tim\Source\Repos\DapperDemos\Demo2_AdvancedDapper\obj\Debug\Demo2_AdvancedDapper.pdb
+H:\dapper grundlagen\Demo2_AdvancedDapper\bin\Debug\Demo2_AdvancedDapper.exe.config
+H:\dapper grundlagen\Demo2_AdvancedDapper\bin\Debug\Demo2_AdvancedDapper.exe
+H:\dapper grundlagen\Demo2_AdvancedDapper\bin\Debug\Demo2_AdvancedDapper.pdb
+H:\dapper grundlagen\Demo2_AdvancedDapper\bin\Debug\Dapper.dll
+H:\dapper grundlagen\Demo2_AdvancedDapper\bin\Debug\HelperLibrary.dll
+H:\dapper grundlagen\Demo2_AdvancedDapper\bin\Debug\HelperLibrary.pdb
+H:\dapper grundlagen\Demo2_AdvancedDapper\obj\Debug\Demo2_AdvancedDapper.csprojAssemblyReference.cache
+H:\dapper grundlagen\Demo2_AdvancedDapper\obj\Debug\Demo2_AdvancedDapper.csproj.CoreCompileInputs.cache
+H:\dapper grundlagen\Demo2_AdvancedDapper\obj\Debug\Demo2_AdvancedDapper.csproj.CopyComplete
+H:\dapper grundlagen\Demo2_AdvancedDapper\obj\Debug\Demo2_AdvancedDapper.exe
+H:\dapper grundlagen\Demo2_AdvancedDapper\obj\Debug\Demo2_AdvancedDapper.pdb
+C:\Users\Pat\source\repos\dapper grundlagen\Demo2_AdvancedDapper\obj\Debug\Demo2_AdvancedDapper.csprojAssemblyReference.cache
+C:\Users\Pat\source\repos\dapper grundlagen\Demo2_AdvancedDapper\obj\Debug\Demo2_AdvancedDapper.csproj.CoreCompileInputs.cache
+C:\Users\Pat\source\repos\dapper grundlagen\Demo2_AdvancedDapper\obj\Debug\Demo2_AdvancedDapper.exe
+C:\Users\Pat\source\repos\dapper grundlagen\Demo2_AdvancedDapper\obj\Debug\Demo2_AdvancedDapper.pdb
+C:\Users\Pat\source\repos\dapper grundlagen\Demo2_AdvancedDapper\bin\Debug\Demo2_AdvancedDapper.exe.config
+C:\Users\Pat\source\repos\dapper grundlagen\Demo2_AdvancedDapper\bin\Debug\Demo2_AdvancedDapper.exe
+C:\Users\Pat\source\repos\dapper grundlagen\Demo2_AdvancedDapper\bin\Debug\Demo2_AdvancedDapper.pdb
+C:\Users\Pat\source\repos\dapper grundlagen\Demo2_AdvancedDapper\bin\Debug\Dapper.dll
+C:\Users\Pat\source\repos\dapper grundlagen\Demo2_AdvancedDapper\bin\Debug\HelperLibrary.dll
+C:\Users\Pat\source\repos\dapper grundlagen\Demo2_AdvancedDapper\bin\Debug\HelperLibrary.pdb
+C:\Users\Pat\source\repos\dapper grundlagen\Demo2_AdvancedDapper\obj\Debug\Demo2_AdvancedDapper.csproj.CopyComplete

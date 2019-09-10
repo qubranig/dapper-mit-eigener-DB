@@ -1,0 +1,24 @@
+C:\Users\Tim\Source\Repos\DapperDemos\HelperLibrary\bin\Debug\HelperLibrary.dll
+C:\Users\Tim\Source\Repos\DapperDemos\HelperLibrary\bin\Debug\HelperLibrary.pdb
+C:\Users\Tim\Source\Repos\DapperDemos\HelperLibrary\obj\Debug\HelperLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Tim\Source\Repos\DapperDemos\HelperLibrary\obj\Debug\HelperLibrary.dll
+C:\Users\Tim\Source\Repos\DapperDemos\HelperLibrary\obj\Debug\HelperLibrary.pdb
+C:\Users\Tim\Source\Repos\DapperDemos\HelperLibrary\obj\Debug\HelperLibrary.csprojAssemblyReference.cache
+Z:\c# projekte\dapper grundlagen\HelperLibrary\bin\Debug\HelperLibrary.dll
+Z:\c# projekte\dapper grundlagen\HelperLibrary\bin\Debug\HelperLibrary.pdb
+Z:\c# projekte\dapper grundlagen\HelperLibrary\obj\Debug\HelperLibrary.csprojAssemblyReference.cache
+Z:\c# projekte\dapper grundlagen\HelperLibrary\obj\Debug\HelperLibrary.csproj.CoreCompileInputs.cache
+Z:\c# projekte\dapper grundlagen\HelperLibrary\obj\Debug\HelperLibrary.dll
+Z:\c# projekte\dapper grundlagen\HelperLibrary\obj\Debug\HelperLibrary.pdb
+H:\dapper grundlagen\HelperLibrary\bin\Debug\HelperLibrary.dll
+H:\dapper grundlagen\HelperLibrary\bin\Debug\HelperLibrary.pdb
+H:\dapper grundlagen\HelperLibrary\obj\Debug\HelperLibrary.csprojAssemblyReference.cache
+H:\dapper grundlagen\HelperLibrary\obj\Debug\HelperLibrary.csproj.CoreCompileInputs.cache
+H:\dapper grundlagen\HelperLibrary\obj\Debug\HelperLibrary.dll
+H:\dapper grundlagen\HelperLibrary\obj\Debug\HelperLibrary.pdb
+C:\Users\Pat\source\repos\dapper grundlagen\HelperLibrary\bin\Debug\HelperLibrary.dll
+C:\Users\Pat\source\repos\dapper grundlagen\HelperLibrary\bin\Debug\HelperLibrary.pdb
+C:\Users\Pat\source\repos\dapper grundlagen\HelperLibrary\obj\Debug\HelperLibrary.csprojAssemblyReference.cache
+C:\Users\Pat\source\repos\dapper grundlagen\HelperLibrary\obj\Debug\HelperLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Pat\source\repos\dapper grundlagen\HelperLibrary\obj\Debug\HelperLibrary.dll
+C:\Users\Pat\source\repos\dapper grundlagen\HelperLibrary\obj\Debug\HelperLibrary.pdb
